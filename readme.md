@@ -11,5 +11,3 @@ Single page website Bank website built using pure JavaScript, HTML &amp; CSS. It
 ### preview
 
 ![image preview](preview.png)
-
-- for now \*not mobile friendly 😥
