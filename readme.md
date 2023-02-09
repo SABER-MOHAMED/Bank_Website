@@ -6,7 +6,7 @@ Single page website Bank website built using pure JavaScript, HTML &amp; CSS. It
 ## Built with
 - HTML
 - CSS
-- JavaScript
+- Vanilla JavaScript
 
 ### preview
 
